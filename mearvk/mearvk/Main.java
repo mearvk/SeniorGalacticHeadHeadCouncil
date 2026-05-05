@@ -9,5 +9,7 @@ public class Main
         SignalProcessing signal_processing = new mearvk.SignalProcessing();
 
         final SignalProcessing var = signal_processing;
+
+        var.run();
     }
 }
