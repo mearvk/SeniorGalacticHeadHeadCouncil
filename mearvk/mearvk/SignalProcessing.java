@@ -6,4 +6,11 @@ public class SignalProcessing
     {
 
     }
+
+    public void run()
+    {
+        Math.sin(889);
+
+        Math.sin(8899);
+    }
 }
